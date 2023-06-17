@@ -1,0 +1,3 @@
+The PasswordGenerator class  generates 50k unique passwords and saves to the passwords.txt and in the PasswordStrengthMeter class the user given password is tested whether it follows all the rules and then checks in the 50k password file whether it is repeated or not and produces the results according to that.
+Step 1: Run the PasswordGenerator class
+Step 2: Run the PasswordStrengthMeter class
